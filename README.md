@@ -2,7 +2,7 @@
 
 A machine learning project that predicts heart attack risk in patients using a rich set of clinical and lifestyle features. The project covers exploratory data analysis, domain-aware feature engineering, and benchmarking of three classification models with hyperparameter tuning.
 
----
+----
 
 ## 📊 Dataset
 
